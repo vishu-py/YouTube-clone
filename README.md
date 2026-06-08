@@ -8,7 +8,7 @@ This project was created to practice modern frontend development concepts includ
 
 ## Live Demo
 
-Coming Soon
+https://vishu-py.github.io/YouTube-clone/
 
 ---
 
